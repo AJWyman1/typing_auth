@@ -1,1 +1,2 @@
-# typing_auth
+# A Typing Style Authenticator
+
